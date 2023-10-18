@@ -12,4 +12,4 @@
 - [GCFGlobal's Understanding the Cloud](https://edu.gcfglobal.org/en/computerbasics/understanding-the-cloud/1/): An explanation of basic terms relating the cloud, for people who are unfamiliar with what "the cloud" is. 
 - [EdX training](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies): An EdX course by the Linux Foundation that provides the basics of cloud technologies. 
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-Cloud-Computing-from-Scratch-for-Beginners)
-- [Udemy](https://geekflare.com/recommends/udemy-courses/](https://www.udemy.com/courses/search/?q=cloud+computing&src=sac&kw=cloud)
+- [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=Cloud)
