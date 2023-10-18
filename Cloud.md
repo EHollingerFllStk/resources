@@ -13,3 +13,4 @@
 - [EdX training](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies): An EdX course by the Linux Foundation that provides the basics of cloud technologies. 
 - [Eduonix](https://www.eduonix.com/courses/Software-Development/Learn-Cloud-Computing-from-Scratch-for-Beginners)
 - [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=Cloud)
+- [SANS - Cybersecurity Cloud Computing](https://www.sans.org/mlp/cloud-security-certification-guide/?utm_medium=CPC&utm_source=Google&utm_content=Cert%20Guide&utm_campaign=Cloud%20Security%20Certification)
